@@ -24,7 +24,7 @@ parameters = {
 
 # Initialize Watsonx.ai model
 model = Model(
-    model_id="granite-34b-code-instruct",
+    model_id="meta-llama/llama-3-405b-instruct",
     params=parameters,
     credentials=credentials,
     project_id=project_id
