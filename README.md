@@ -5,7 +5,7 @@ colorFrom: indigo
 colorTo: indigo
 sdk: streamlit
 sdk_version: 1.40.2
-app_file: working fine app.py
+app_file: appgooduidonotdelete.py
 pinned: false
 ---
 # -Text_to_sql
